@@ -1,8 +1,8 @@
-##Ultrakill weapons
+## Ultrakill weapons
 
 -------
 
-#My favourites
+# My favourites
 
 - Marksman revolver
 [Coin Guide](https://www.youtube.com/watch?v=p7j8ekOaI0M)
