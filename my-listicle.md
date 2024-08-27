@@ -18,6 +18,14 @@
 
   **Prepare before ememy spawns, use magnet for best effect**
 
+- Jackhammer (*Shotgun alt aquired from 7-2*)
+
+  [Jackhammer aquire](https://www.youtube.com/watch?v=8LlMTnAMOBs)
+  
+  ![Jackhammer](https://github.com/user-attachments/assets/ef48efa1-dda3-4d81-967a-5492205a90ce)
+  
+  **Two Jackhammer hits kill one Malicious Face or one Virtue**
+
 - 
 
   
