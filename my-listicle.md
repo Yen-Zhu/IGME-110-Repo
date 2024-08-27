@@ -2,7 +2,7 @@
 
 -------
 
-# My favourites
+# My favourites (top 5)
 
 - Marksman revolver
   
