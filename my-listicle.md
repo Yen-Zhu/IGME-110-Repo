@@ -28,8 +28,12 @@
   **Two Jackhammer hits kill one Malicious Face or one Virtue**
 
 - Piercer revolver
-  [Why the piercer is important](https://www.youtube.com/watch?v=9RfvCWBkBEU)
-
   
+  [Why the piercer is important](https://www.youtube.com/watch?v=9RfvCWBkBEU)
+  
+  ![Piercer revolver](https://github.com/user-attachments/assets/814d172d-ffc3-40a7-97f4-71be50ed0f96)
 
+  **Combo with marksman, piercing shot through a number of enemies**
+
+- 
   
