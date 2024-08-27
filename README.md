@@ -4,8 +4,8 @@
 
 ## Level-2 header
 
--red
--green
--blue
+- red
+- green
+- blue
 
 *Italics*
