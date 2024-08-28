@@ -7,6 +7,7 @@
 - Marksman revolver
   
   [Coin Guide](https://www.youtube.com/watch?v=p7j8ekOaI0M)
+  
   ![Marksman revolver](https://github.com/user-attachments/assets/75c60a13-7b56-4165-a4f2-ae71c23b972c)
 
 **best combo with piercer revolver and railcannon**
