@@ -7,7 +7,8 @@
 - Marksman revolver
   
   [Coin Guide](https://www.youtube.com/watch?v=p7j8ekOaI0M)
-  ![Marksman](https://github.com/user-attachments/assets/ce2e656f-273f-47db-81f0-a66cf795fd22)
+  ![Marksman revolver](https://github.com/user-attachments/assets/75c60a13-7b56-4165-a4f2-ae71c23b972c)
+
 **best combo with piercer revolver and railcannon**
   
 - Sawblade launcher (*Nailgun alt aquired from 4-4*)
@@ -35,10 +36,10 @@
 
   **Combo with marksman, piercing shot through a number of enemies**
 
-- Freezeframe Rocket Launcher
+- Freezeframe rocket launcher
 
   [How to rocket ride](https://www.google.com/search?sca_esv=6fc9685705fbb62e&sxsrf=ADLYWIJX_NB0z8dXXoeGXKhlIFB-fjy4mg:1724804050055&q=ultrakill+rocket+ride&tbm=vid&source=lnms&fbs=AEQNm0AiWqXpwpi4y_F8VDYetL6Dlnkps_EIKkohBFm2lDUsiBepNBjmASBr9uelbUYBbgOgSinKnsikOw8eX0WEsCCwGvOIvfwleINDrjuVTRluMeQ5_WT9kfVzKEMOYN5gpfliRLv5K64OT6iUGA2T2PixByH9WyYN7BxvjydF9DC8Jva7q22-Z_pUMqwMsvQIqPDzjTPtyuGp0z2gDP3UxzXOTrl-jQ&sa=X&ved=2ahUKEwiOqNfls5aIAxW1EGIAHVSLDWcQ0pQJegQIERAB&biw=1272&bih=684&dpr=2#fpstate=ive&vld=cid:d4cd5d78,vid:eR59DYZABB4,st:0)
   
-  ![Freezeframe Rocket Launcher](https://github.com/user-attachments/assets/33948f77-41e4-4239-8052-ab6fadfc3929)
+  ![Freezeframe rocket launcher](https://github.com/user-attachments/assets/33948f77-41e4-4239-8052-ab6fadfc3929)
 
   **Best used in 0-5 and 5-4 to skip platforming section and save time**
